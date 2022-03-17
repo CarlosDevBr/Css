@@ -17,3 +17,7 @@ html{
     font-variant: small-caps;
     font-size: 1.5rem;
 }
+
+p{
+    text-indent: 2rem;
+}
