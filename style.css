@@ -1,5 +1,10 @@
+@font-face {
+    font-family: 'alexbrush', cursive;
+    src: url('AlexBrush-Regular.ttf');
+}
+
 html{
-    color: #e00;
+    color: #fff;
     background-color: #000;
     background-image: url("./motivation.jpg");
     background-repeat: no-repeat;
@@ -7,49 +12,5 @@ html{
     background-position: center;
     background-size: cover;
 
-    font-family: fantasy;
-}
-
-main h1{
-    color: rgb(135, 255, 255);
-}
-
-h2{
-    color:#00EE00;
-}
-
-p{
-    color: yellowgreen;
-}
-
-.titulo-aula{
-    text-decoration: underline;
-}
-
-.texto-azul{
-    color:blue;
-}
-
-.texto-vermelho{
-    color:red;
-}
-
-#titulo-primeira-aula{
-    text-decoration: none;
-}
-
-#titulo-segunda-aula{
-    color: brown;
-}
-
-.texto-vermelho .comentario{
-    color: blue;
-}
-
-.texto-vermelho.comentario{
-    color: green;
-}
-
-.comentario{
-    color:red;
+    font-family: 'alexbrush', cursive;
 }
