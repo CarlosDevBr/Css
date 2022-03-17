@@ -1,6 +1,7 @@
 html{
     background-color: #000;
     background-image: url("./motivation.jpg");
+    background-repeat: no-repeat;
 }
 
 main h1{
