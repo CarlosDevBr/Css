@@ -12,5 +12,6 @@ html{
     background-position: center;
     background-size: cover;
 
-    font-family: 'alexbrush', cursive;
+    font-family: monospace;
+    font-style: italic;
 }
