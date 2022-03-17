@@ -1,7 +1,10 @@
 html{
+    color: #e00;
     background-color: #000;
     background-image: url("./motivation.jpg");
     background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
 }
 
 main h1{
