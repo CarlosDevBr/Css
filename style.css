@@ -21,7 +21,7 @@ html{
 p{
     text-indent: 2rem;
     text-align: left;
-    letter-spacing: px;
+    text-transform: lowercase;
 }
 
 h2{
