@@ -1,3 +1,7 @@
+main h1{
+    color:rebeccapurple;
+}
+
 h2{
     color:green;
 }
@@ -24,4 +28,16 @@ p{
 
 #titulo-segunda-aula{
     color: brown;
+}
+
+.texto-vermelho .comentario{
+    color: blue;
+}
+
+.texto-vermelho.comentario{
+    color: green;
+}
+
+.comentario{
+    color:red;
 }
