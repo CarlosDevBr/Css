@@ -5,6 +5,7 @@ html{
     background-repeat: no-repeat;
     height: 100vh;
     background-position: center;
+    background-size: cover;
 }
 
 main h1{
