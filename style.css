@@ -28,3 +28,9 @@ h2{
     text-decoration: underline;
     letter-spacing: 10px;
 }
+
+a{
+    color: red;
+    cursor: help;
+    
+}
