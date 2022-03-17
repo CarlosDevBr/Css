@@ -21,8 +21,10 @@ html{
 p{
     text-indent: 2rem;
     text-align: left;
+    letter-spacing: px;
 }
 
 h2{
     text-decoration: underline;
+    letter-spacing: 10px;
 }
