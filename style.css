@@ -22,3 +22,7 @@ p{
     text-indent: 2rem;
     text-align: left;
 }
+
+h2{
+    text-decoration: underline;
+}
