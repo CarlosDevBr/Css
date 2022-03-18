@@ -9,13 +9,16 @@
     background-color: blue;
     border-width: 5px;
     border-bottom-width: 0px;
+    border-bottom-style: dashed;
 }
 
 .verde{
     background-color: green;
     border-width: 10px 0 5px 3px;
+    border-style: double;
 }
 
 .vermelho{
     background-color: red;
+    border-style: dashed;
 }
