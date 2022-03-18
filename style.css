@@ -34,3 +34,8 @@ a{
     cursor: help;
     
 }
+
+a:active{
+    color: blue;
+    cursor: help;    
+}
