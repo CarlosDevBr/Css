@@ -1,0 +1,18 @@
+.box{
+    box-sizing: border-box;
+    width: 5rem;
+    height: 5rem;
+    display: inline-block;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.verde{
+    background-color: green;
+}
+
+.vermelho{
+    background-color: red;
+}
