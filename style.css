@@ -43,3 +43,8 @@ a:active{
 a:visited{
     color: red;
 }
+
+h2:hover{
+    cursor: pointer;
+    display: none;
+}
