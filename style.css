@@ -30,12 +30,16 @@ h2{
 }
 
 a{
-    color: red;
-    cursor: help;
+    color: blue;
+    cursor: help; 
     
 }
 
 a:active{
-    color: blue;
-    cursor: help;    
+    color: green;
+    cursor: grab;   
+}
+
+a:visited{
+    color: red;
 }
