@@ -1,11 +1,8 @@
 .box{
-    box-sizing: border-box;
-    width: 5rem;
-    height: 5rem;
-    display: inline-block;
-    color: white;
-    font-size: 3rem;
-    padding: 5px;
+    box-sizing: content-box;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
 }
 
 .azul{
